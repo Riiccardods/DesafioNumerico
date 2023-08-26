@@ -8,7 +8,7 @@ namespace JogoAdivinhacao
         {
             Console.WriteLine("Bem-vindo ao Jogo de Adivinhação!");
 
-            // Gera um número aleatório entre 1e 100
+            // Gera um número aleatório entre 1 e 100
             Random random = new Random();
             int numeroSecreto = random.Next(1, 101);
 
