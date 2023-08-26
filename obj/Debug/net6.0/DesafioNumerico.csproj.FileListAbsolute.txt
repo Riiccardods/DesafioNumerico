@@ -1,0 +1,15 @@
+C:\Users\riica\source\repos\DesafioNumerico\bin\Debug\net6.0\DesafioNumerico.exe
+C:\Users\riica\source\repos\DesafioNumerico\bin\Debug\net6.0\DesafioNumerico.deps.json
+C:\Users\riica\source\repos\DesafioNumerico\bin\Debug\net6.0\DesafioNumerico.runtimeconfig.json
+C:\Users\riica\source\repos\DesafioNumerico\bin\Debug\net6.0\DesafioNumerico.dll
+C:\Users\riica\source\repos\DesafioNumerico\bin\Debug\net6.0\DesafioNumerico.pdb
+C:\Users\riica\source\repos\DesafioNumerico\obj\Debug\net6.0\DesafioNumerico.csproj.AssemblyReference.cache
+C:\Users\riica\source\repos\DesafioNumerico\obj\Debug\net6.0\DesafioNumerico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riica\source\repos\DesafioNumerico\obj\Debug\net6.0\DesafioNumerico.AssemblyInfoInputs.cache
+C:\Users\riica\source\repos\DesafioNumerico\obj\Debug\net6.0\DesafioNumerico.AssemblyInfo.cs
+C:\Users\riica\source\repos\DesafioNumerico\obj\Debug\net6.0\DesafioNumerico.csproj.CoreCompileInputs.cache
+C:\Users\riica\source\repos\DesafioNumerico\obj\Debug\net6.0\DesafioNumerico.dll
+C:\Users\riica\source\repos\DesafioNumerico\obj\Debug\net6.0\refint\DesafioNumerico.dll
+C:\Users\riica\source\repos\DesafioNumerico\obj\Debug\net6.0\DesafioNumerico.pdb
+C:\Users\riica\source\repos\DesafioNumerico\obj\Debug\net6.0\DesafioNumerico.genruntimeconfig.cache
+C:\Users\riica\source\repos\DesafioNumerico\obj\Debug\net6.0\ref\DesafioNumerico.dll
