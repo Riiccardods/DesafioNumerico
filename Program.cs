@@ -1,19 +1,32 @@
 ﻿using System;
 
-namespace JogoAdivinhacao
+namespace DesafioNumerico
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bem-vindo ao Jogo de Adivinhação!");
+
+
+            Console.WriteLine("Bem-vindo ao Desafio Numerico!");
+
+
+
 
             // Gera um número aleatório entre 1 e 100
-            Random random = new Random();
-            int numeroSecreto = random.Next(1, 101);
 
+            Random random = new Random();
+
+            int numeroSecreto = random.Next(1, 101);
             int tentativas = 0;
             bool acertou = false;
+
+
+
+
+
+
+
 
             while (!acertou)
             {
@@ -51,6 +64,18 @@ namespace JogoAdivinhacao
                     Console.WriteLine("O número secreto é menor! Tente novamente.");
                 }
             }
+
+
+
+
+
+
+
+
+
+
+
+
         }
     }
 }
