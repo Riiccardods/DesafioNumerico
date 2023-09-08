@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\riica\\source\\repos\\DesafioNumerico\\DesafioNumerico.csproj": {}
+    "C:\\Users\\riica\\Source\\Repos\\DesafioNumerico\\DesafioNumerico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\riica\\source\\repos\\DesafioNumerico\\DesafioNumerico.csproj": {
+    "C:\\Users\\riica\\Source\\Repos\\DesafioNumerico\\DesafioNumerico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\riica\\source\\repos\\DesafioNumerico\\DesafioNumerico.csproj",
+        "projectUniqueName": "C:\\Users\\riica\\Source\\Repos\\DesafioNumerico\\DesafioNumerico.csproj",
         "projectName": "DesafioNumerico",
-        "projectPath": "C:\\Users\\riica\\source\\repos\\DesafioNumerico\\DesafioNumerico.csproj",
+        "projectPath": "C:\\Users\\riica\\Source\\Repos\\DesafioNumerico\\DesafioNumerico.csproj",
         "packagesPath": "C:\\Users\\riica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\riica\\source\\repos\\DesafioNumerico\\obj\\",
+        "outputPath": "C:\\Users\\riica\\Source\\Repos\\DesafioNumerico\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
