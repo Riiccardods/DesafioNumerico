@@ -7,23 +7,16 @@ namespace DesafioNumerico
         static void Main(string[] args)
         {
 
-
             Console.WriteLine("Bem-vindo ao Desafio Numerico!");
 
 
-
-
-            // Gera um número aleatório entre 1 e 100
+            // Gera um numero aleatório
 
             Random random = new Random();
 
             int numeroSecreto = random.Next(1, 101);
             int tentativas = 0;
             bool acertou = false;
-
-
-
-
 
 
 
@@ -52,7 +45,7 @@ namespace DesafioNumerico
                 {
                     acertou = true;
                     Console.WriteLine($"Parabéns! Você acertou o número em {tentativas} tentativas.");
-                    Console.WriteLine("Pressione qualquer tecla para sair.");
+                    Console.WriteLine("Pressione uma tecla para sair.");
                     Console.ReadLine();
                 }
                 else if (palpite < numeroSecreto)
